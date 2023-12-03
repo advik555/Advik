@@ -1,5 +1,7 @@
 # mineflayer-template
 advikbot, on 6b6t
+
+
 if you wanna make a bot
 to install mineflayer run:
 ```npm install mineflayer```
